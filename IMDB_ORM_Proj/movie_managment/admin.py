@@ -12,6 +12,6 @@ admin.site.register(MovieReview)
 admin.site.register(DistributionHouse)
 admin.site.register(MovieCrew)
 admin.site.register(MovieMusic)
-admin.site.register(MovieCollection)
+# admin.site.register(MovieCollection)
 
 
